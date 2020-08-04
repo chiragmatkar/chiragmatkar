@@ -1,12 +1,12 @@
-### Hi there, I'm [Chirag!](https://kaafivikrant.me) 
+### Hi there, I'm [Chirag!](https://chiragmatkar.github.io) 
 <img src="https://media.giphy.com/media/EppzaSdmWOtb5KyeJj/giphy.gif" width="100">
 
-Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacking book every month
+Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacking book every month.
 
-- 🔭 I’m currently working on enhancing my hacking skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
+- 🔭 I’m currently working on enhancing my hacking skills.
 - 🌱 I’m currently learning python and AWS.
-- 📈 Growing on [Codechef](https://www.codechef.com/users/iamvikrant1)
-- 💬 Want to ask anything? [Ask me!](https://github.com/kaafivikrant/kaafivikrant/issues)
+- 📈 Growing on [Codechef]
+- 💬 Want to ask anything? [Ask me!](https://github.com/chiragmatkar/chiragmatkar/issues)
 - 👷 React Native App.
 
 
