@@ -15,7 +15,7 @@ Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacki
 </a>
 <br>------------------------------------------------------------------------------</br>
 
-** Expertise: **  
+**Expertise:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
