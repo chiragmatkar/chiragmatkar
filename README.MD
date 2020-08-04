@@ -3,15 +3,15 @@
 
 Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacking book every month
 
-- 🔭 I’m currently working on my algorithmic skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
-- 🌱 I’m currently learning C++ and AR.
+- 🔭 I’m currently working on enhancing my hacking skills on [Leetcode](https://github.com/kaafivikrant/Leetcode_P)
+- 🌱 I’m currently learning python and AWS.
 - 📈 Growing on [Codechef](https://www.codechef.com/users/iamvikrant1)
 - 💬 Want to ask anything? [Ask me!](https://github.com/kaafivikrant/kaafivikrant/issues)
 - 👷 React Native App.
 
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kaafivikrant">
+<a href="https://github.com/chiragmatkar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chiragmatkar">
 </a>
 <br>------------------------------------------------------------------------------</br>
 
