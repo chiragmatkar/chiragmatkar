@@ -1,5 +1,5 @@
 ### Hi there, I'm [Chirag!](https://kaafivikrant.me) 
-<img src="https://media.giphy.com/media/EppzaSdmWOtb5KyeJj/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/EppzaSdmWOtb5KyeJj/giphy.gif width="100">
 
 Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacking book every month
 
