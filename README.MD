@@ -9,7 +9,7 @@ Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacki
 - 📈 Growing on [Codechef]
 - 💬 Want to ask anything? [Ask me!](https://github.com/chiragmatkar/chiragmatkar/issues)
 - 👷 Node App.
--    Pledged to donate my open source softwate earnings and part of my bug bounties to Farmers and Soldiers of India. Jai Hind!!!
+-    Pledged to donate my open source software earnings and part of my bug bounties to Farmers and Soldiers of India. Jai Hind!!!
 
 # Donations
 
