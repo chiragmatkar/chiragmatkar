@@ -8,13 +8,13 @@ Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacki
 - 🌱 I’m currently learning python and AWS.
 - 📈 Growing on [Codechef]
 - 💬 Want to ask anything? [Ask me!](https://github.com/chiragmatkar/chiragmatkar/issues)
-- 👷 React Native App.
+- 👷 Node App.
 -    Pledged to donate my open source softwate earnings and part of my bug bounties to Farmers and Soldiers of India. Jai Hind!!!
 
 
 # Please feel free to donate below
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=XN87GF3YCDLME)
+[![Save Indian Farmers LLC](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=XN87GF3YCDLME)
 
 <a href="https://github.com/chiragmatkar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiragmatkar">
