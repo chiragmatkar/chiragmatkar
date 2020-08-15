@@ -14,7 +14,8 @@ Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacki
 
 # Please feel free to donate below
 
-[![Save Indian Farmers LLC](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=XN87GF3YCDLME)
+**Save Indian Farmers LLC:**  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=XN87GF3YCDLME)
 
 <a href="https://github.com/chiragmatkar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiragmatkar">
