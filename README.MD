@@ -12,9 +12,7 @@ Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacki
 -    Pledged to donate my open source softwate earnings and part of my bug bounties to Farmers and Soldiers of India. Jai Hind!!!
 
 
-# Please feel free to donate below
-
-**Save Indian Farmers LLC:**  
+**Please click below to donate to Save Indian Farmers LLC:**  
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=XN87GF3YCDLME)
 
 <a href="https://github.com/chiragmatkar/github-profile-views-counter">
