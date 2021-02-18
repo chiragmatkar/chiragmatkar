@@ -1,7 +1,7 @@
 ### Hi there, I'm [Chirag!](https://chiragmatkar.github.io) 
 <img src="https://media.giphy.com/media/EppzaSdmWOtb5KyeJj/giphy.gif" width="100">
 
-Hi, I'm Chirag Matkar, a self-taught hacker from India. I plan to read one Hacking book every month.
+Hi, I'm Chirag Matkar, a self-taught developer/hacker from India. I plan to read one Hacking book every month.
 
 
 - 🔭 I’m currently working on enhancing my hacking skills.
